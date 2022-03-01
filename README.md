@@ -1,4 +1,5 @@
 # DAT255_miniproject
+![](assets/mini-project.png)
 Marine fouling application to classify images.
 The images are fetched from DuckDuckGo using fastai lib methods.
 
